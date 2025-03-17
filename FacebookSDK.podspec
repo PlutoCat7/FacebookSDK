@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ChenJie/FacebookSDK'
+  s.homepage         = 'https://github.com/PlutoCat7/FacebookSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ChenJie' => '467116811@qq.com' }
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '12.0'
 
-  s.source_files = 'FacebookSDK/Classes/**/*'
+  # s.source_files = 'FacebookSDK/Classes/**/*'
   s.vendored_frameworks = 'FacebookSDK/Frameworks/*.xcframework'
   # s.resource_bundles = {
   #   'FacebookSDK' => ['FacebookSDK/Assets/*.png']
