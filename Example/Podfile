@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FacebookSDK_Tests' do
+  pod 'FacebookSDK', :path => '../'
+  
+  
+end
